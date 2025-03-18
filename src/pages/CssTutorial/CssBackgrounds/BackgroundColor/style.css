@@ -1,0 +1,39 @@
+.BackgroundColor {
+    width: 160vh;
+}
+
+.BackgroundColor h2 {
+    background-color: lightblue;
+}
+
+.BackgroundColor div {
+    background-color: green;
+  }
+  
+.BackgroundColor div.first {
+    opacity: 0.1;
+  }
+  
+.BackgroundColor div.second {
+    opacity: 0.3;
+  }
+  
+.BackgroundColor div.third {
+    opacity: 0.6;
+  }
+
+.BackgroundColor  div {
+    background: rgb(0, 128, 0);
+  }
+  
+.BackgroundColor  div.first1 {
+    background: rgba(0, 128, 0, 0.1);
+  }
+  
+.BackgroundColor  div.second1 {
+    background: rgba(0, 128, 0, 0.3);
+  }
+  
+.BackgroundColor  div.third1 {
+    background: rgba(0, 128, 0, 0.6);
+  }

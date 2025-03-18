@@ -1,0 +1,15 @@
+.BackgroundImage {
+    width: 160vh;
+   
+}
+
+.BackgroundImage .a {
+    background-image: url("../../../../assets/bg1.jpeg");
+}
+.BackgroundImage .b {
+    background-image: url("../../../../assets/bg2.jpeg");
+}
+.BackgroundImage .c {
+    background-image: url("../../../../assets/bg3.jpeg");
+    color: white;
+}

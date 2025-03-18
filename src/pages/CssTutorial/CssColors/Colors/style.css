@@ -1,0 +1,28 @@
+.Colors {
+    width: 160vh;
+
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+}
+.Colors h1 {
+    font-weight: bold;
+    font-size: 35px;
+}
+.Colors h2 {
+
+    font-size: 35px;
+}
+
+.Colors .Tomato {
+    background-color: tomato;
+}
+.Colors .Background_Color {
+    background-color: blue;
+}
+.Colors .Text_Colors {
+    color: red;
+}
+.Colors .Border_Colors {
+    border:2px solid Violet
+}
